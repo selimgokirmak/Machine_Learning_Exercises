@@ -5,3 +5,4 @@
 - BostonHousing
 - winequality_white
 - Iris
+- insurance
