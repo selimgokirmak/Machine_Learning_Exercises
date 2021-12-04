@@ -6,3 +6,4 @@
 - winequality_white
 - Iris
 - insurance
+- news_fake_real
